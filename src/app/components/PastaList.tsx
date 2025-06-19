@@ -5,7 +5,7 @@ import { Pasta } from '../type/documentos';
 
 export default function PastaList() {
   const pastas: Pasta[] = [
-    { id: 1, nome: 'Casa Abandonada' },
+    { id: 1, nome: 'CasaAbandonada' },
     { id: 2, nome: 'Internet' },
     { id: 3, nome: 'Ordem' },
     { id: 4, nome: 'Santo' },

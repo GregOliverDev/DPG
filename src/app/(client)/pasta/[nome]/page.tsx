@@ -14,239 +14,239 @@ export default function DocumentosPasta() {
     {
       id: 1,
       nome: "Calculos.png",
-      pasta: "Casa Abandonada",
-      imagem: "Documentos/Casa Abandonada/Calculos.png",
+      pasta: "CasaAbandonada",
+      imagem: "/Documentos/CasaAbandonada/Calculos.png",
       senhaCorreta: "ye"
     },
     {
       id: 2,
       nome: "Carta esposa veio 1.png",
-      pasta: "Casa Abandonada",
-      imagem: "Documentos/Casa Abandonada/Carta esposa veio 1.png",
+      pasta: "CasaAbandonada",
+      imagem: "/Documentos/CasaAbandonada/Carta esposa veio 1.png",
       senhaCorreta: "ye"
     },
     {
       id: 3,
       nome: "Carta esposa veio 2.png",
-      pasta: "Casa Abandonada",
-      imagem: "Documentos/Casa Abandonada/Carta esposa veio 2.png",
+      pasta: "CasaAbandonada",
+      imagem: "/Documentos/CasaAbandonada/Carta esposa veio 2.png",
       senhaCorreta: "ye"
     },
     {
       id: 4,
       nome: "Carta esposa veio 3.png",
-      pasta: "Casa Abandonada",
-      imagem: "Documentos/Casa Abandonada/Carta esposa veio 3.png",
+      pasta: "CasaAbandonada",
+      imagem: "/Documentos/CasaAbandonada/Carta esposa veio 3.png",
       senhaCorreta: "ye"
     },
     {
       id: 5,
       nome: "Carta veio 1.png",
-      pasta: "Casa Abandonada",
-      imagem: "Documentos/Casa Abandonada/Carta veio 1.png",
+      pasta: "CasaAbandonada",
+      imagem: "/Documentos/CasaAbandonada/Carta veio 1.png",
       senhaCorreta: "ye"
     },
     {
       id: 6,
       nome: "Carta veio 2.png",
-      pasta: "Casa Abandonada",
-      imagem: "Documentos/Casa Abandonada/Carta veio 2.png",
+      pasta: "CasaAbandonada",
+      imagem: "/Documentos/CasaAbandonada/Carta veio 2.png",
       senhaCorreta: "ye"
     },
     {
       id: 7,
       nome: "Casa.png",
-      pasta: "Casa Abandonada",
-      imagem: "Documentos/Casa Abandonada/Casa.png",
+      pasta: "CasaAbandonada",
+      imagem: "/Documentos/CasaAbandonada/Casa.png",
       senhaCorreta: "ye"
     },
     {
       id: 8,
       nome: "Caveira.png",
-      pasta: "Casa Abandonada",
-      imagem: "Documentos/Casa Abandonada/Caveira.png",
+      pasta: "CasaAbandonada",
+      imagem: "/Documentos/CasaAbandonada/Caveira.png",
       senhaCorreta: "ye"
     },
     {
       id: 9,
       nome: "Cobaia 2.png",
-      pasta: "Casa Abandonada",
-      imagem: "Documentos/Casa Abandonada/Cobaia 2.png",
+      pasta: "CasaAbandonada",
+      imagem: "/Documentos/CasaAbandonada/Cobaia 2.png",
       senhaCorreta: "ye"
     },
     {
       id: 10,
       nome: "Cobaia 3.png",
-      pasta: "Casa Abandonada",
-      imagem: "Documentos/Casa Abandonada/Cobaia 3.png",
+      pasta: "CasaAbandonada",
+      imagem: "/Documentos/CasaAbandonada/Cobaia 3.png",
       senhaCorreta: "ye"
     },
     {
       id: 11,
       nome: "Documento dos criadores  (1).png",
-      pasta: "Casa Abandonada",
-      imagem: "Documentos/Casa Abandonada/Documento dos criadores  (1).png",
+      pasta: "CasaAbandonada",
+      imagem: "/Documentos/CasaAbandonada/Documento dos criadores  (1).png",
       senhaCorreta: "ye"
     },
     {
       id: 12,
       nome: "Documento dos criadores  (2).png",
-      pasta: "Casa Abandonada",
-      imagem: "Documentos/Casa Abandonada/Documento dos criadores  (2).png",
+      pasta: "CasaAbandonada",
+      imagem: "/Documentos/CasaAbandonada/Documento dos criadores  (2).png",
       senhaCorreta: "ye"
     },
     {
       id: 13,
       nome: "Documento dos criadores  (3).png",
-      pasta: "Casa Abandonada",
-      imagem: "Documentos/Casa Abandonada/Documento dos criadores  (3).png",
+      pasta: "CasaAbandonada",
+      imagem: "/Documentos/CasaAbandonada/Documento dos criadores  (3).png",
       senhaCorreta: "ye"
     },
     {
       id: 14,
       nome: "Documento dos criadores  (4).png",
-      pasta: "Casa Abandonada",
-      imagem: "Documentos/Casa Abandonada/Documento dos criadores  (4).png",
+      pasta: "CasaAbandonada",
+      imagem: "/Documentos/CasaAbandonada/Documento dos criadores  (4).png",
       senhaCorreta: "ye"
     },
     {
       id: 15,
       nome: "Documento dos criadores  (5).png",
-      pasta: "Casa Abandonada",
-      imagem: "Documentos/Casa Abandonada/Documento dos criadores  (5).png",
+      pasta: "CasaAbandonada",
+      imagem: "/Documentos/CasaAbandonada/Documento dos criadores  (5).png",
       senhaCorreta: "ye"
     },
     {
       id: 16,
       nome: "Documento dos criadores  (6).png",
-      pasta: "Casa Abandonada",
-      imagem: "Documentos/Casa Abandonada/Documento dos criadores  (6).png",
+      pasta: "CasaAbandonada",
+      imagem: "/Documentos/CasaAbandonada/Documento dos criadores  (6).png",
       senhaCorreta: "ye"
     },
     {
       id: 17,
       nome: "Documento dos criadores  (7).png",
-      pasta: "Casa Abandonada",
-      imagem: "Documentos/Casa Abandonada/Documento dos criadores  (7).png",
+      pasta: "CasaAbandonada",
+      imagem: "/Documentos/CasaAbandonada/Documento dos criadores  (7).png",
       senhaCorreta: "ye"
     },
     {
       id: 18,
       nome: "Documento dos criadores  (8).png",
-      pasta: "Casa Abandonada",
-      imagem: "Documentos/Casa Abandonada/Documento dos criadores  (8).png",
+      pasta: "CasaAbandonada",
+      imagem: "/Documentos/CasaAbandonada/Documento dos criadores  (8).png",
       senhaCorreta: "ye"
     },
     {
       id: 19,
       nome: "Etiqueta cobaia.png",
-      pasta: "Casa Abandonada",
-      imagem: "Documentos/Casa Abandonada/Etiqueta cobaia.png",
+      pasta: "CasaAbandonada",
+      imagem: "/Documentos/CasaAbandonada/Etiqueta cobaia.png",
       senhaCorreta: "ye"
     },
     {
       id: 20,
       nome: "imagem_19.png",
-      pasta: "Casa Abandonada",
-      imagem: "Documentos/Casa Abandonada/imagem_19.png",
+      pasta: "CasaAbandonada",
+      imagem: "/Documentos/CasaAbandonada/imagem_19.png",
       senhaCorreta: "ye"
     },
     {
       id: 21,
       nome: "Simbolo no veio.png",
-      pasta: "Casa Abandonada",
-      imagem: "Documentos/Casa Abandonada/Simbolo no veio.png",
+      pasta: "CasaAbandonada",
+      imagem: "/Documentos/CasaAbandonada/Simbolo no veio.png",
       senhaCorreta: "ye"
     },
     {
       id: 22,
       nome: "Pesquisa 1.png",
       pasta: "Internet",
-      imagem: "Documentos/Internet/Pesquisa 1.png",
+      imagem: "/Documentos/Internet/Pesquisa 1.png",
       senhaCorreta: "ye"
     },
     {
       id: 23,
       nome: "Pesquisa 1.png",
       pasta: "Ordem",
-      imagem: "Documentos/Ordem/Documento Ordem 1.png",
+      imagem: "/Documentos/Ordem/Documento Ordem 1.png",
       senhaCorreta: "ye"
     },
     {
       id: 24,
       nome: "Pesquisa 2.png",
       pasta: "Ordem",
-      imagem: "Documentos/Ordem/Documento Ordem 2.png",
+      imagem: "/Documentos/Ordem/Documento Ordem 2.png",
       senhaCorreta: "ye"
     },
     {
       id: 25,
       nome: "Carta 1.png",
       pasta: "Santo",
-      imagem: "Documentos/Santo/Carta 1.png",
+      imagem: "/Documentos/Santo/Carta 1.png",
       senhaCorreta: "ye"
     },
     {
       id: 26,
       nome: "Carta 2.png",
       pasta: "Santo",
-      imagem: "Documentos/Santo/Carta 2.png",
+      imagem: "/Documentos/Santo/Carta 2.png",
       senhaCorreta: "ye"
     },
     {
       id: 27,
       nome: "Carta hoteleiro (1).png",
       pasta: "Santo",
-      imagem: "Documentos/Santo/Carta hoteleiro (1).png",
+      imagem: "/Documentos/Santo/Carta hoteleiro (1).png",
       senhaCorreta: "ye"
     },
     {
       id: 28,
       nome: "Carta hoteleiro (2).png",
       pasta: "Santo",
-      imagem: "Documentos/Santo/Carta hoteleiro (2).png",
+      imagem: "/Documentos/Santo/Carta hoteleiro (2).png",
       senhaCorreta: "ye"
     },
     {
       id: 29,
       nome: "Casa do ferreiro.png",
       pasta: "Santo",
-      imagem: "Documentos/Santo/Casa do ferreiro.png",
+      imagem: "/Documentos/Santo/Casa do ferreiro.png",
       senhaCorreta: "ye"
     },
     {
       id: 30,
       nome: "Cristais.png",
       pasta: "Santo",
-      imagem: "Documentos/Santo/Cristais.png",
+      imagem: "/Documentos/Santo/Cristais.png",
       senhaCorreta: "ye"
     },
     {
       id: 31,
       nome: "Documento Labirinto Normal Censurado.png",
       pasta: "Santo",
-      imagem: "Documentos/Santo/Documento Labirinto Normal Censurado.png",
+      imagem: "/Documentos/Santo/Documento Labirinto Normal Censurado.png",
       senhaCorreta: "ye"
     },
     {
       id: 32,
       nome: "Documento Labirinto Normal sem Censura.png",
       pasta: "Santo",
-      imagem: "Documentos/Santo/Documento Labirinto Normal sem Censura.png",
+      imagem: "/Documentos/Santo/Documento Labirinto Normal sem Censura.png",
       senhaCorreta: "ye"
     },
     {
       id: 33,
       nome: "Quadro.png",
       pasta: "Santo",
-      imagem: "Documentos/Santo/Quadro.png",
+      imagem: "/Documentos/Santo/Quadro.png",
       senhaCorreta: "ye"
     },
     {
       id: 34,
       nome: "Sepultura.png",
       pasta: "Sepultura",
-      imagem: "public/Documentos/Sepultura/Sepultura.png",
+      imagem: "/Documentos/Sepultura/Sepultura.png",
       senhaCorreta: "ye"
     }
   ];

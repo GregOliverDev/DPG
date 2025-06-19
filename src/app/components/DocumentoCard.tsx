@@ -134,6 +134,7 @@ export default function DocumentoCard({ id, nome, imagem, senhaCorreta }: Docume
           variant="contained"
           fullWidth
           className="mt-3 bg-pink-500 hover:bg-pink-600 text-white"
+          sx={{backgroundColor: '#ec4899', '&:hover': { backgroundColor: '#db2777' }}}
           startIcon={isUnlocked ? <LockOpen /> : <Lock />}
           onClick={handleAbrirDocumento}
         >

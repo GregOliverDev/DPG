@@ -125,7 +125,7 @@ export default function DocumentoCard({ id, nome, imagem, senhaCorreta }: Docume
         </div>
         
         <div className="mt-3">
-          <h3 className={`font-medium ${isUnlocked ? 'text-white' : 'text-gray-500 blur-sm'}`}>
+          <h3 className={`font-medium text-white`}>
             {nome}
           </h3>
         </div>
